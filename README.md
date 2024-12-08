@@ -1,0 +1,2 @@
+# San Francisco Airport Clustering
+In this project, I aim to group airlines based on various features using clustering techniques. By applying unsupervised learning methods, such as K-Means, the goal is to identify patterns and similarities among airlines.
